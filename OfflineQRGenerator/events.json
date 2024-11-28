@@ -1,0 +1,183 @@
+[
+    {
+        "id": 1,
+        "name": "Tech Conference 2024",
+        "image": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/e9f03e9f-38b7-48b7-7847-00bc091d3d00/public",
+        "location": "San Francisco",
+        "latitude": 37.7749,
+        "longitude": -122.4194,
+        "qrCodeUrl": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/e9f03e9f-38b7-48b7-7847-00bc091d3d00/public"
+    },
+    {
+        "id": 2,
+        "name": "Music Festival",
+        "image": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/f7b62342-92f3-4e61-086d-99ae716bcf00/public",
+        "location": "Los Angeles",
+        "latitude": 34.0522,
+        "longitude": -118.2437,
+        "qrCodeUrl": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/f7b62342-92f3-4e61-086d-99ae716bcf00/public"
+    },
+    {
+        "id": 3,
+        "name": "Art Expo",
+        "image": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/b621dcd9-80bb-4dda-17ba-983649fe8700/public",
+        "location": "New York City",
+        "latitude": 40.7128,
+        "longitude": -74.0060,
+        "qrCodeUrl": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/b621dcd9-80bb-4dda-17ba-983649fe8700/public"
+    },
+    {
+        "id": 4,
+        "name": "Startup Meetup",
+        "image": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/d28d4662-176e-469a-ccd3-e83f1fbeca00/public",
+        "location": "Boston",
+        "latitude": 42.3601,
+        "longitude": -71.0589,
+        "qrCodeUrl": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/d28d4662-176e-469a-ccd3-e83f1fbeca00/public"
+    },
+    {
+        "id": 5,
+        "name": "Film Festival",
+        "image": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/d28d4662-176e-469a-ccd3-e83f1fbeca00/public",
+        "location": "Austin",
+        "latitude": 30.2672,
+        "longitude": -97.7431,
+        "qrCodeUrl": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/d28d4662-176e-469a-ccd3-e83f1fbeca00/public"
+    },
+    {
+        "id": 6,
+        "name": "Food Carnival",
+        "image": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/d023f363-fee5-47ae-0f4f-21a570257b00/public",
+        "location": "Miami",
+        "latitude": 25.7617,
+        "longitude": -80.1918,
+        "qrCodeUrl": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/d023f363-fee5-47ae-0f4f-21a570257b00/public"
+    },
+    {
+        "id": 7,
+        "name": "Photography Workshop",
+        "image": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/778cf005-c0e4-4c54-6775-29d4b43f6f00/public",
+        "location": "Seattle",
+        "latitude": 47.6062,
+        "longitude": -122.3321,
+        "qrCodeUrl": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/778cf005-c0e4-4c54-6775-29d4b43f6f00/public"
+    },
+    {
+        "id": 8,
+        "name": "Gaming Expo",
+        "image": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/ca2f2850-c7c0-409a-e6da-8656760e6b00/public",
+        "location": "Las Vegas",
+        "latitude": 36.1699,
+        "longitude": -115.1398,
+        "qrCodeUrl": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/ca2f2850-c7c0-409a-e6da-8656760e6b00/public"
+    },
+    {
+        "id": 9,
+        "name": "Health and Wellness Fair",
+        "image": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/d023f363-fee5-47ae-0f4f-21a570257b00/public",
+        "location": "San Diego",
+        "latitude": 32.7157,
+        "longitude": -117.1611,
+        "qrCodeUrl": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/d023f363-fee5-47ae-0f4f-21a570257b00/public"
+    },
+    {
+        "id": 10,
+        "name": "Book Launch",
+        "image": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/2c83b4eb-ce56-4e5e-e103-3c4843bc2e00/public",
+        "location": "Chicago",
+        "latitude": 41.8781,
+        "longitude": -87.6298,
+        "qrCodeUrl": "https://example.com/qrcode10.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Cultural Fest",
+        "image": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/b621dcd9-80bb-4dda-17ba-983649fe8700/public",
+        "location": "Atlanta",
+        "latitude": 33.7490,
+        "longitude": -84.3880,
+        "qrCodeUrl": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/b621dcd9-80bb-4dda-17ba-983649fe8700/public"
+    },
+    {
+        "id": 12,
+        "name": "Tech Hackathon",
+        "image": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/f9fd3f86-2ff2-4df7-06aa-67f06b4ab400/public",
+        "location": "Palo Alto",
+        "latitude": 37.4419,
+        "longitude": -122.1430,
+        "qrCodeUrl": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/f9fd3f86-2ff2-4df7-06aa-67f06b4ab400/public"
+    },
+    {
+        "id": 13,
+        "name": "Fitness Expo",
+        "image": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/b621dcd9-80bb-4dda-17ba-983649fe8700/public",
+        "location": "Denver",
+        "latitude": 39.7392,
+        "longitude": -104.9903,
+        "qrCodeUrl": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/b621dcd9-80bb-4dda-17ba-983649fe8700/public"
+    },
+    {
+        "id": 14,
+        "name": "Education Summit",
+        "image": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/8b0aa6e1-328f-4068-b952-6bf2a8b0e000/public",
+        "location": "Phoenix",
+        "latitude": 33.4484,
+        "longitude": -112.0740,
+        "qrCodeUrl": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/8b0aa6e1-328f-4068-b952-6bf2a8b0e000/public"
+    },
+    {
+        "id": 15,
+        "name": "Charity Gala",
+        "image": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/d4d57f95-e99c-49c8-8306-4d913864a400/public",
+        "location": "Dallas",
+        "latitude": 32.7767,
+        "longitude": -96.7970,
+        "qrCodeUrl": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/d4d57f95-e99c-49c8-8306-4d913864a400/public"
+    },
+    {
+        "id": 16,
+        "name": "Robotics Showcase",
+        "image": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/b99fec02-6ee1-4941-8565-0dfd2a93b700/public",
+        "location": "San Jose",
+        "latitude": 37.3382,
+        "longitude": -121.8863,
+        "qrCodeUrl": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/b99fec02-6ee1-4941-8565-0dfd2a93b700/public"
+    },
+    {
+        "id": 17,
+        "name": "Fashion Show",
+        "image": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/d4d57f95-e99c-49c8-8306-4d913864a400/public",
+        "location": "Houston",
+        "latitude": 29.7604,
+        "longitude": -95.3698,
+        "qrCodeUrl": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/d4d57f95-e99c-49c8-8306-4d913864a400/public"
+    },
+    {
+        "id": 18,
+        "name": "Startup Fair",
+        "image": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/565403fd-d9fb-4631-49f2-2765172b2d00/public",
+        "location": "Portland",
+        "latitude": 45.5152,
+        "longitude": -122.6784,
+        "qrCodeUrl": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/565403fd-d9fb-4631-49f2-2765172b2d00/public"
+    },
+    {
+        "id": 19,
+        "name": "Marketing Summit",
+        "image": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/d28d4662-176e-469a-ccd3-e83f1fbeca00/public",
+        "location": "Orlando",
+        "latitude": 28.5383,
+        "longitude": -81.3792,
+        "qrCodeUrl": "https://example.com/qrcode19.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Climate Action Conference",
+        "image": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/44b7c778-a831-4bf5-d93c-22710cb96900/public",
+        "location": "Washington, D.C.",
+        "latitude": 38.9072,
+        "longitude": -77.0369,
+        "qrCodeUrl": "https://imagedelivery.net/M33TG5iYcZNb7v4U4o4XeQ/44b7c778-a831-4bf5-d93c-22710cb96900/public"
+    }
+]
+
